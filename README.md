@@ -6,7 +6,7 @@
 
 I'm a lifelong science enthusiast, tinkerer, and maker who enjoys bringing science fiction a little closer to science fact.
 
-By day, I work in medical imaging as an X-ray application specialist. In my spare time, I build functional Tricorders, experiment with electronics and sensors, and chase ideas that live somewhere between science and imagination.
+By day, I work in medical imaging as an X-ray application / image quality specialist. In my spare time, I build functional Tricorders, experiment with electronics and sensors, and chase ideas that live somewhere between science and imagination.
 
 My interests span astrophysics, quantum physics, archaeology, anthropology, and philology — and pretty much anything that makes me ask, *"I wonder how that works?"*
 
