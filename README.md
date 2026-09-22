@@ -15,9 +15,9 @@ These days, I build things that bring science fiction a little closer to science
 My interests include astrophysics, quantum physics, archaeology, anthropology, philology, electronics, and pretty much anything that makes me ask, *"I wonder how that works?"*
 
 ---
-
 ## 🖖 The TR-460 Science Tricorder
-<img width="646" height="643" alt="image" src="https://github.com/user-attachments/assets/677a10a0-4c4a-482b-9ca4-a156a472d130" />
+
+![TR-460 Science Tricorder](https://github.com/user-attachments/assets/677a10a0-4c4a-482b-9ca4-a156a472d130)
 
 
 My primary project is a functional, handheld science Tricorder inspired by Star Trek.
