@@ -1,16 +1,46 @@
-## Hi there 👋
+# Brian M. Ross
 
-<!--
-**oldblackcrow/oldblackcrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### aka OldBlackCrow
 
-Here are some ideas to get you started:
+The name Old Black Crow dates back to 1994, when I founded Old Black Crow Creative Services. Inspired by a poem I wrote, the name reflects a lifelong fascination with discovery, the unknown, and finding direction through curiosity and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More than thirty years later, the Crow is still flying.
+
+**Builder of functional Tricorders | Science enthusiast | Lifelong tinkerer**
+
+My fascination with computers began with a VIC-20 in high school, followed by a Commodore 64 during my years in the U.S. Air Force. I learned to program in BASIC on that C64 and eventually graduated to a 286 PC in 1991.
+
+These days, I build things that bring science fiction a little closer to science fact.
+
+My interests include astrophysics, quantum physics, archaeology, anthropology, philology, electronics, and pretty much anything that makes me ask, *"I wonder how that works?"*
+
+---
+
+## 🖖 The TR-460 Science Tricorder
+<img width="646" height="643" alt="image" src="https://github.com/user-attachments/assets/677a10a0-4c4a-482b-9ca4-a156a472d130" />
+
+
+My primary project is a functional, handheld science Tricorder inspired by Star Trek.
+
+Built around Adafruit microcontrollers and CircuitPython, it incorporates multiple scientific instruments, including:
+
+* Radiation detection
+* Atmospheric and environmental monitoring
+* Thermal imaging and distance measurement
+* Magnetic field measurement and orientation
+* Ultraviolet and color sensing
+* Acoustic monitoring
+* Home Assistant integration for mission logging and data analysis
+
+The goal isn't simply to make a Star Trek prop. It's to build an actual scientific instrument that happens to look and behave like something from the 24th century.
+
+**Because "I wonder what that is?" should have a button.**
+
+---
+
+## 🌎 Elsewhere
+* Website: [BrianMRoss.com](https://brianmross.com)
+* YouTube: [TheOldBlackCrow](https://www.youtube.com/@TheOldBlackCrow)
+* Bluesky: [@oldblackcrow.bsky.social](https://bsky.app/profile/oldblackcrow.bsky.social)
+
+*Live long and prosper.* 🖖
